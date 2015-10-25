@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "A:\\cardProject\\files\\website"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "A:\\atlas"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "."
+		}
+	]
+}
